@@ -1,0 +1,8 @@
+C:\Users\czarn\source\repos\do szkoły projekt\do szkoły projekt\bin\Debug\do szkoły projekt.exe.config
+C:\Users\czarn\source\repos\do szkoły projekt\do szkoły projekt\bin\Debug\do szkoły projekt.exe
+C:\Users\czarn\source\repos\do szkoły projekt\do szkoły projekt\bin\Debug\do szkoły projekt.pdb
+C:\Users\czarn\source\repos\do szkoły projekt\do szkoły projekt\obj\Debug\do szkoły projekt.csproj.AssemblyReference.cache
+C:\Users\czarn\source\repos\do szkoły projekt\do szkoły projekt\obj\Debug\do szkoły projekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\czarn\source\repos\do szkoły projekt\do szkoły projekt\obj\Debug\do szkoły projekt.csproj.CoreCompileInputs.cache
+C:\Users\czarn\source\repos\do szkoły projekt\do szkoły projekt\obj\Debug\do szkoły projekt.exe
+C:\Users\czarn\source\repos\do szkoły projekt\do szkoły projekt\obj\Debug\do szkoły projekt.pdb
